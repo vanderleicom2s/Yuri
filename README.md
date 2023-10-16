@@ -1,15 +1,12 @@
 ## Yuri Custodio da Silva
-- 18 years
+- 19 years
 - TI student
-- Java, HTML, C and Python
-- I'm studying neural network
-- Pro player in Terraria, LoL end Clahs Royale
+- JavaScript, React Native, Phyton
+- I've studied a bit about artificial intelligence, but I'm focusing on js because I'm using it a lot in my final paper.
 <br>
-I'm lvl 36 in Pokemon Go 
-<br>
-Distance walked: 1497.6 km
-<br>
-Complete Kanto Pokédex 🥵🥵
+ i like software, i want to pursue a career in cyber security and i want to do an exchange program.
+
+
 
 
 
